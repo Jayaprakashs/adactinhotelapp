@@ -1,0 +1,8 @@
+2020-09-03 19:28:18,712 INFO  [Tests] Test passed 
+2020-09-03 19:28:42,712 INFO  [Tests] Test passed 
+2020-09-03 19:36:36,589 INFO  [Tests] hotelApp : Test passed 
+2020-09-03 19:36:48,073 INFO  [Tests] hotelApp : Test passed 
+2020-09-03 19:36:59,611 INFO  [Tests] hotelApp : Test passed 
+2020-09-03 19:50:46,672 ERROR [Tests] The name of the testcase passed is :TestLogin 
+2020-09-03 19:50:59,550 ERROR [Tests] The name of the testcase passed is :ChangePassword 
+2020-09-03 19:51:11,662 ERROR [Tests] The name of the testcase passed is :VerifyLoginOnPasswordChange 

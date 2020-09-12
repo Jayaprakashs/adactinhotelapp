@@ -1,0 +1,25 @@
+2020-09-07 10:53:08 ERROR CustomListener:19 - The name of the testcase failed is :ChangePassword
+2020-09-07 10:53:08 ERROR CustomListener:19 - The name of the testcase failed is :TestLogin
+2020-09-07 10:53:08 ERROR CustomListener:19 - The name of the testcase failed is :VerifyLoginOnPasswordChange
+2020-09-07 10:53:43 INFO  Utilis:48 - Browsre launched
+2020-09-07 10:53:46 INFO  Utilis:50 - Browsers maximized
+2020-09-07 10:53:47 INFO  Utilis:52 - open the url http://adactinhotelapp.com/HotelAppBuild2/
+2020-09-07 10:53:47 INFO  Tests:48 - Login using null,null
+2020-09-07 10:53:47 INFO  Utilis:46 - [[EdgeDriver: msedge on WINDOWS (301d0f30e7f2857d1f25127d632db633)] -> id: username] : is displayed and values for the element: null
+2020-09-07 10:53:48 ERROR CustomListener:14 - The name of the testcase failed is :ChangePassword
+2020-09-07 10:53:49 INFO  Utilis:69 - Browser closed
+2020-09-07 10:53:55 INFO  Utilis:48 - Browsre launched
+2020-09-07 10:53:57 INFO  Utilis:50 - Browsers maximized
+2020-09-07 10:53:58 INFO  Utilis:52 - open the url http://adactinhotelapp.com/HotelAppBuild2/
+2020-09-07 10:53:58 INFO  Tests:36 - Test case started
+2020-09-07 10:53:58 INFO  Tests:39 - Login using jayaprakashs,admin
+2020-09-07 10:53:58 INFO  Utilis:46 - [[EdgeDriver: msedge on WINDOWS (295faee8091cee81c573ca4efe1de75c)] -> id: username] : is displayed and values for the element: jayaprakashs
+2020-09-07 10:53:58 INFO  Utilis:48 - value sent to element
+2020-09-07 10:53:58 INFO  Utilis:46 - [[EdgeDriver: msedge on WINDOWS (295faee8091cee81c573ca4efe1de75c)] -> id: password] : is displayed and values for the element: admin
+2020-09-07 10:53:58 INFO  Utilis:48 - value sent to element
+2020-09-07 10:53:59 INFO  Utilis:33 - [[EdgeDriver: msedge on WINDOWS (295faee8091cee81c573ca4efe1de75c)] -> id: login] : is enabled
+2020-09-07 10:53:59 INFO  Utilis:35 - Clicked on element
+2020-09-07 10:53:59 INFO  Tests:41 - Page title is Adactin.com - Hotel Reservation System
+2020-09-07 10:53:59 ERROR CustomListener:14 - The name of the testcase failed is :TestLogin
+2020-09-07 10:54:00 INFO  Utilis:69 - Browser closed
+2020-09-07 10:54:00 ERROR CustomListener:19 - The name of the testcase failed is :VerifyLoginOnPasswordChange
